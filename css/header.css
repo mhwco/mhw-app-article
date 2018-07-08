@@ -1,0 +1,10 @@
+#header>#title{
+	margin:2px;
+}
+#header>#info{
+	color:#777;
+}
+#header{
+	padding-bottom:10px;
+	border-bottom:solid #777 2px;
+}
