@@ -12,13 +12,10 @@
    ```
 
 3. 文章模板文件夹中的文件功能
-
-   | 文件名        | 功能                                       |
-   | ------------- | ------------------------------------------ |
-   | article.md    | 文章主文件                                 |
-   | manifest.json | 文章信息                                   |
-   | index.html    | 向用户显示文章，***不得修改！***           |
-   | load.js       | 将文章加载到index.html中，***不得修改！*** |
+   article.md : 文章主文件
+   manifest.json : 文章信息
+   index.html : 向用户显示文章，***不得修改！***
+   load.js : 将文章加载到index.html中，***不得修改！*** 
 
 4. manifest.json修改
 
@@ -69,6 +66,7 @@
    ```
 
    关于Markdown的更多信息，可以参阅：
+   
    [Markdown官网](https://daringfireball.net/projects/markdown/syntax)
 
    [W3CSchool](https://www.w3cschool.cn/markdownyfsm/)
